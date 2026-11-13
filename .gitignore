@@ -1,0 +1,10 @@
+.venv/
+dist/
+__pycache__/
+*.pyc
+*.lnk
+/QQMusic_Setup*.exe
+/qq音乐/
+/lyrics/
+/.env
+

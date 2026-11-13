@@ -82,4 +82,3 @@ Floating Lyrics 是 Windows 悬浮歌词窗口，支持 QQ 音乐和网易云音
 - Floating Lyrics 通过 InfLink-rs 发布的时间轴同步，按曲目 ID 优先从网易云取词，并保留 [AMLL](https://github.com/amll-dev/amll-ttml-db) 和 LRCLIB 作为备选。没有插件时，本机这版网易云自身只提供曲目信息和播放状态，可继续使用手动对齐。
 - 外观与窗口状态已支持自动保存。第三阶段还计划增加图形化快捷键设置和开机启动选项。
 
-

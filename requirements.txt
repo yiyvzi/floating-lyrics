@@ -1,0 +1,3 @@
+PySide6-Essentials==6.12.0
+winrt-Windows.Media.Control==4!10.0.28000.2957
+

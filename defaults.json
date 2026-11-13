@@ -1,0 +1,16 @@
+{
+  "width": 360,
+  "height": 580,
+  "background": "#151721",
+  "opacity": 94,
+  "font_size": 17,
+  "line_spacing": 13,
+  "follow_delay": 5,
+  "theme": "classic",
+  "hotkeys": {
+    "visibility": "Ctrl+Alt+F9",
+    "click_through": "Ctrl+Alt+F10",
+    "follow": "Ctrl+Alt+F11"
+  }
+}
+
